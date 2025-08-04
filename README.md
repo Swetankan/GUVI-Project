@@ -29,10 +29,10 @@ A web-based student registration system built with **Node.js, Express, MySQL, an
 
 | Light Mode                                      | Dark Mode                                     |
 | ----------------------------------------------- | --------------------------------------------- |
-| ![Light Mode](path/to/your/light-mode-image.png) | ![Dark Mode](path/to/your/dark-mode-image.png) |
+| ![Light Mode](screenshots/light-mode-image.png) | ![Dark Mode](screenshots/dark-mode-image.png) |
 
 **Successful Submission:**
-![Success Message](path/to/your/success-image.png)
+![Success Message](screenshots/success-image.png)
 
 ---
 
