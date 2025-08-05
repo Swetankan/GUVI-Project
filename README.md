@@ -25,7 +25,7 @@ A web-based student registration system built with **Node.js, Express, MySQL, an
 
 ## 🖼️ Screenshots
 
-*(Replace the placeholder links below with actual screenshots of your project.)*
+
 
 | Light Mode                                      | Dark Mode                                     |
 | ----------------------------------------------- | --------------------------------------------- |
